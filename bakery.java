@@ -19,7 +19,7 @@
         ReservationHistoryAdapter.java
       util
         DateTimeUtils.java
-      activity
+      activit
         LoginActivity.java
         RegistrationActivity.java
         BakeryListActivity.java
